@@ -1,12 +1,14 @@
-# Facebook-data-Analysis
-EDA on facebook dataset to find out reation between different features and extracting some valuable insights
+# My Repo for latest project at INSAID
 
-> Let's see
-___
+## Here is the list of all projects
 
-- Point 1
-- Point 2
+- [Intro](http://https://github.com/Richa-git27/Facebook-data-Analysis/tree/main/Intro "Intro")
+- [EDA](http://https://github.com/Richa-git27/Facebook-data-Analysis/tree/main/EDA "EDA")
+- [Pre-Processing](http://https://github.com/Richa-git27/Facebook-data-Analysis/tree/main/Pre-Processing "Pre-Processing")
+- [Post-Processing](http://https://github.com/Richa-git27/Facebook-data-Analysis/tree/main/Post-Processing "Post-Processing")
 
-'''
-print('hello world')
-'''
+| Intro  | [![Intro](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Intro/fb%20complete.jpg "Intro")](http://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Intro/fb%20complete.jpg "Intro")  |
+| :------------: | :------------: |
+|[![EDA](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Intro/eda.jpg "EDA")](http://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Intro/eda.jpg "EDA")   |  EDA |
+|Pre-Processing   |  [![Prep](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Intro/maths.jpg "Prep")](http://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Intro/maths.jpg "Prep") |
+|  [![Postpr](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Intro/dataacqu.jpg "Postpr")](http://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Intro/dataacqu.jpg "Postpr") | Post-Processing  |
