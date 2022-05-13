@@ -28,7 +28,7 @@ I used basic libraries for EDA on this dataset such as:
 - Numpy : for background calculations [![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Data_Description/NUmpy.jpg)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Data_Description/NUmpy.jpg)
 - Pandas : for data manipulation [![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Data_Description/pandas.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Data_Description/pandas.png)
 - Matplotlib : pyplot interface for data visualization [![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Data_Description/mplt.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Data_Description/mplt.png)
-- Seaborn : for advanced data visualization https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Data_Description/seaborn1.png
+- Seaborn : for advanced data visualization [![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Data_Description/seaborn1.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Data_Description/seaborn1.png)
 ```python
 import numpy as np
 import pandas as pd
