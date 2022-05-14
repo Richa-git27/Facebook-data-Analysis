@@ -23,10 +23,11 @@ plt.title(label='Age-wise Distribution of Facebook users', size=16)
 plt.show()
 
 ```
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/age-hist.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/age-hist.png)
+
 ### Observation
 
 - Facebook is being used by people ranging from 13 to 113 however the most actively using population belongs to age group 11-33 and there is a sharp decline noticed in usage post 33 years of age followed by declining trend and a little rise between 99-110
-
 
 ------------
 
@@ -60,3 +61,4 @@ plt.ylabel(ylabel='Gender', size=14)
 plt.title(label='Donut Plot showing the usage of facebook by each Gender', size=18)
 plt.show()
 ```
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gender-gr.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gender-gr.png)
