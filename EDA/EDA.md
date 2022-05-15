@@ -62,3 +62,133 @@ plt.title(label='Donut Plot showing the usage of facebook by each Gender', size=
 plt.show()
 ```
 [![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gender-gr.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gender-gr.png)
+
+
+###Observation
+
+It shows that out of the total population 59.3% males are using facebook while 40.7% females are using facebook
+
+------------
+
+
+###Question
+
+What is the percentage of male/female in most active age-group using facebook?
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/agpe-pc.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/agpe-pc.png)
+
+###Observation
+
+Among the most active population, 63.5% are males while 36.5% are females
+
+------------
+
+
+###Question
+
+What is the distribution of dob_month across the population?
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/dob_mnt.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/dob_mnt.png)
+
+###Observation
+
+The date of birth month of January and October are found to be most common in the data. Lets explore it further
+
+------------
+
+
+###Question
+
+What is the percentage of population having date of birth month as 'January' and 'October'?
+
+```python
+100*data[(data['dob_month'] == 10) | (data['dob_month'] == 1)].shape[0]/data['dob_month'].shape[0]
+```
+20.443000829741163
+
+------------
+
+
+###Question
+
+What is the percentage of male and female in the population having date of birth month as 'January' or 'October'?
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gdr_domth.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gdr_domth.png)
+
+###Observation
+
+Around 20% population is having date of birth month as January or October of which 62.9% are males while 37.1% are females.
+
+------------
+
+
+###Question
+
+What is the distribution of dob_day across the population?
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/dob_dy.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/dob_dy.png)
+
+###Observation
+
+Most common date of birth day is 1st or 10th day of a month.
+
+------------
+
+
+###Question
+
+What is the percentage of population having date of birth day as 1st or 10th of a month?
+
+```python
+100*data[(data['dob_day'] == 1) | (data['dob_day'] == 10)].shape[0]/data['dob_day'].shape[0]
+```
+
+12.044401270920607
+
+###Observation
+
+12% of total population have their date of birth days as 1st and 10th of a month.
+
+------------
+
+
+###Question
+
+What is the percentage of population having birth date as 1st or 10th of January or October?
+
+```python
+100*data[(data['dob_day'] == 1) | (data['dob_day'] == 10) & (data['dob_month'] == 10) | (data['dob_month'] == 1)].shape[0]/data.shape[0]
+```
+
+16.333758322708597
+
+###Observation
+
+16% of total population have date of birth days as 1st or 10th of January or October.
+
+------------
+
+
+###Question
+
+What is the percentage of likes given by the population having date of birth day as 1st or 10th of January or October?
+
+```python
+100*data[(data['dob_day'] == 1) | (data['dob_day'] == 10) & (data['dob_month'] == 10) | (data['dob_month'] == 1)]['likes'].sum()/data['likes'].sum()
+```
+
+14.008574465184862
+
+###Observation
+
+14% of total likes are given by the population having date of birth day as 1st or 10th of January or October
+
+------------
+
+###Question
+
+Which gender is giving/recieving more likes?
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gndr_likes.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gndr_likes.png)
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gndr_like_rec.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gndr_like_rec.png)
