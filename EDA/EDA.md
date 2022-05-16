@@ -64,40 +64,40 @@ plt.show()
 [![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gender-gr.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gender-gr.png)
 
 
-###Observation
+### Observation
 
 It shows that out of the total population 59.3% males are using facebook while 40.7% females are using facebook
 
 ------------
 
 
-###Question
+### Question
 
 What is the percentage of male/female in most active age-group using facebook?
 
 [![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/agpe-pc.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/agpe-pc.png)
 
-###Observation
+### Observation
 
 Among the most active population, 63.5% are males while 36.5% are females
 
 ------------
 
 
-###Question
+### Question
 
 What is the distribution of dob_month across the population?
 
 [![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/dob_mnt.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/dob_mnt.png)
 
-###Observation
+### Observation
 
 The date of birth month of January and October are found to be most common in the data. Lets explore it further
 
 ------------
 
 
-###Question
+### Question
 
 What is the percentage of population having date of birth month as 'January' and 'October'?
 
@@ -109,33 +109,33 @@ What is the percentage of population having date of birth month as 'January' and
 ------------
 
 
-###Question
+### Question
 
 What is the percentage of male and female in the population having date of birth month as 'January' or 'October'?
 
 [![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gdr_domth.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gdr_domth.png)
 
-###Observation
+### Observation
 
 Around 20% population is having date of birth month as January or October of which 62.9% are males while 37.1% are females.
 
 ------------
 
 
-###Question
+### Question
 
 What is the distribution of dob_day across the population?
 
 [![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/dob_dy.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/dob_dy.png)
 
-###Observation
+### Observation
 
 Most common date of birth day is 1st or 10th day of a month.
 
 ------------
 
 
-###Question
+### Question
 
 What is the percentage of population having date of birth day as 1st or 10th of a month?
 
@@ -145,14 +145,14 @@ What is the percentage of population having date of birth day as 1st or 10th of 
 
 12.044401270920607
 
-###Observation
+### Observation
 
 12% of total population have their date of birth days as 1st and 10th of a month.
 
 ------------
 
 
-###Question
+### Question
 
 What is the percentage of population having birth date as 1st or 10th of January or October?
 
@@ -162,14 +162,14 @@ What is the percentage of population having birth date as 1st or 10th of January
 
 16.333758322708597
 
-###Observation
+### Observation
 
 16% of total population have date of birth days as 1st or 10th of January or October.
 
 ------------
 
 
-###Question
+### Question
 
 What is the percentage of likes given by the population having date of birth day as 1st or 10th of January or October?
 
@@ -179,16 +179,111 @@ What is the percentage of likes given by the population having date of birth day
 
 14.008574465184862
 
-###Observation
+### Observation
 
 14% of total likes are given by the population having date of birth day as 1st or 10th of January or October
 
 ------------
 
-###Question
+### Question
 
 Which gender is giving/recieving more likes?
 
 [![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gndr_likes.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gndr_likes.png)
 
 [![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gndr_like_rec.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gndr_like_rec.png)
+
+### Observation
+
+It shows that 67.9% females are giving likes whereas only 32.1% males are giving likes
+As per the data the likes received by females is 71.8% whereas likes received by males is only 28.2%
+
+------------
+
+
+### Question
+
+What is the genderwise distribution of mobile likes and web likes?
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/mob_web_lik.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/mob_web_lik.png)
+
+### Observation
+
+The graph shows that mobile likes were higher as compared to web likes for both the genders
+It shows that mobile app was used more for liking the posts as compared to web app
+As compared to males, females use web app more likely.
+
+------------
+
+
+### Question
+
+What is the genderwise distribution of likes recieved through mobile and web?
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/mob_web_like_rec.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/mob_web_like_rec.png)
+
+### Observation
+
+It shows that the number of likes received on mobile were higher than on the likes recieved on web application following the same trend of more likes received by females than by males.
+
+------------
+
+
+### Question
+
+What is the genderwise comparison of Friend Count and Friendships Initiated?
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/frnd_ini_vs_count.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/frnd_ini_vs_count.png)
+
+### Observation
+
+More friendships were initiated by males as compared to females however females have higher friend count than males
+
+------------
+
+
+### Question
+
+Which gender has spent longer time on facebook account?
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/tenure_vs_age.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/tenure_vs_age.png)
+
+### Observation
+
+It shows that average tenure of females is higher than males
+
+------------
+
+
+### Question
+
+Is there any relation between friend count and frienship initiated?
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/scttr_frnd_ini_count.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/scttr_frnd_ini_count.png)
+
+### Observation
+
+Individuals having 0-1200 friend count are in majority as data point are much concentrated and they initiate lesser number of friend requests (0-1200)
+
+------------
+
+
+### Question
+
+Is there any relation between friend count and likes given by individuals on various platforms?
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/like_vs_count.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/like_vs_count.png)
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/moblike_vs_count.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/moblike_vs_count.png)
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/weblike_vs_count.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/weblike_vs_count.png)
+
+### Observation
+
+People with 0-1000 number of friend count tend to give more likes
+Similar relation is observed between friend count vs mobile likes and web likes
+
+### Question
+
+What is the relation between tenure and friend count if any?
+
