@@ -193,6 +193,7 @@ Which gender is giving/recieving more likes?
 
 [![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gndr_like_rec.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/gndr_like_rec.png)
 
+
 ### Observation
 
 It shows that 67.9% females are giving likes whereas only 32.1% males are giving likes
@@ -287,3 +288,24 @@ Similar relation is observed between friend count vs mobile likes and web likes
 
 What is the relation between tenure and friend count if any?
 
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/tenure_count.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/tenure_count.png)
+
+### Observation
+
+We can observe that the maximum density lies between 300-400.
+People with lesser tenure have more friend count
+
+------------
+
+
+### Question
+
+What is the genderwise comparison of tenure vs friend count?
+
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/totaltenure_frndcount.png)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/EDA/totaltenure_frndcount.png)
+
+### Observation
+
+It shows that males have higher tenure than females but almost equal to little lesser friend count than females
+
+------------
