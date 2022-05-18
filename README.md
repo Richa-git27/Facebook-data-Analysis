@@ -6,7 +6,7 @@ Table of Contents:
 
 |  S. No. | Contents  |
 | :------------: | :------------: |
-| 1  | [Introduction](http://https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Intro/Introduction.md "Intro")  |
+| 1  | [Introduction](https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Intro/Introduction.md "Intro")  |
 | 2 | [Data Description](http://https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Data_Description/Data_description.md "Data Description")  |
 | 3  | [Pre-Profiling](http://https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Pre-Profiling/Pre-Profiling.md "Pre-Profiling")  |
 | 4  | [Pre-Processing](http://https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Pre-Processing/Pre-processing.md "Pre-Processing")  |
