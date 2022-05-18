@@ -1,5 +1,7 @@
 # EDA
 
+[![](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Intro/eda.jpg)](https://raw.githubusercontent.com/Richa-git27/Facebook-data-Analysis/main/Intro/eda.jpg)
+
 Here we asked and solved some questions pertaining to our defined problem and on the basis of observations draw further conclusions
 
 ### Question
