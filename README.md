@@ -7,9 +7,9 @@ Table of Contents:
 |  S. No. | Contents  |
 | :------------: | :------------: |
 | 1  | [Introduction](https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Intro/Introduction.md "Intro")  |
-| 2 | [Data Description](http://https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Data_Description/Data_description.md "Data Description")  |
-| 3  | [Pre-Profiling](http://https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Pre-Profiling/Pre-Profiling.md "Pre-Profiling")  |
-| 4  | [Pre-Processing](http://https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Pre-Processing/Pre-processing.md "Pre-Processing")  |
-| 5  | [Post-Profiling](http://https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Post-Profiling/Post-Profiling.md "Post-Profiling")  |
-| 6  | [EDA](http://https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/EDA/EDA.md "EDA")  |
-| 7  | [Summarization](http://https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Summarization/Summarization.md "Summarization")  |
+| 2 | [Data Description](https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Data_Description/Data_description.md "Data Description")  |
+| 3  | [Pre-Profiling](https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Pre-Profiling/Pre-Profiling.md "Pre-Profiling")  |
+| 4  | [Pre-Processing](https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Pre-Processing/Pre-processing.md "Pre-Processing")  |
+| 5  | [Post-Profiling](https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Post-Profiling/Post-Profiling.md "Post-Profiling")  |
+| 6  | [EDA](https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/EDA/EDA.md "EDA")  |
+| 7  | [Summarization](https://github.com/Richa-git27/Facebook-data-Analysis/blob/main/Summarization/Summarization.md "Summarization")  |
